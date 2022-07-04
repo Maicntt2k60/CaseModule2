@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "NV01",
+    "_name" : "Le Phuong Mai",
+    "_bird" : "09/02/2001",
+    "_address": "Ha Noi",
+    "_gender": "Nu",
+    "_phone": "098632321"
+  },
+  {
+    "_id": "NV02",
+    "_name" : "Le Nam",
+    "_bird" : "09/02/2001",
+    "_address": "Ha Noi",
+    "_gender": "Nu",
+    "_phone": "098632321"
+  },
+  {
+    "_id": "NV03",
+    "_name" : "Nguyen Phuong Nam",
+    "_bird" : "23/03/2001",
+    "_address": "Ha Noi",
+    "_gender": "Nam",
+    "_phone": "0983676521"
+  },
+  {
+    "_id": "NV04",
+    "_name" : "Nguyen Can An",
+    "_bird" : "09/02/2001",
+    "_address": "Ha Noi",
+    "_gender": "Nu",
+    "_phone": "098632321"
+  }
+]

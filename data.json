@@ -1,0 +1,32 @@
+[
+  {
+  "_id": "SP01",
+  "_name" : "Coca",
+  "_quantity" : 100,
+  "_price": 10000
+  },
+  {
+    "_id": "SP02",
+    "_name" : "Pepsi",
+    "_quantity" : 100,
+    "_price": 10000
+  },
+  {
+    "_id": "SP03",
+    "_name" : "Fanta",
+    "_quantity" : 100,
+    "_price": 10000
+  },
+  {
+    "_id": "SP04",
+    "_name" : "Bim bim",
+    "_quantity" : 100,
+    "_price": 10000
+  },
+  {
+    "_id": "SP05",
+    "_name" : "Bo",
+    "_quantity" : 100,
+    "_price": 2000
+  }
+]
